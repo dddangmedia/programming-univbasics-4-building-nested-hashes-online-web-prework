@@ -1,6 +1,6 @@
 def base_hash
 	new_hash = {
-	  
+	  :peen => "hi"
 	}
 end
 
