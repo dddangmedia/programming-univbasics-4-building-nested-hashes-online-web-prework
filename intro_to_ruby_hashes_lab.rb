@@ -1,6 +1,6 @@
 def base_hash
-	new_hash = {
-	  :railroads => "hi"
+	new_hash => {
+	 railroads => {}
 	}
 end
 
